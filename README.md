@@ -15,6 +15,10 @@ In this hands-on lab, I manually configured a subnet and set static IP addresses
 - **Default Gateway:** `192.168.1.1`
 - **DNS Servers:** `1.1.1.1` and `1.0.0.1`
 
+- ### 💻 Host IP Configuration (Windows)
+![Host IP Settings](![image](https://github.com/user-attachments/assets/32292c3f-ad3b-4859-afa3-bdc8311294fb)
+)
+
 A `/26` subnet breaks a Class C network into **4 subnets**, each with:
 - 62 usable IP addresses
 - 1 network ID
@@ -48,9 +52,6 @@ I successfully ran a **ping** from the VM to the host (`192.168.1.2`) and got re
 ---
 
 ## 📸 Screenshots
-
-### 💻 Host IP Configuration (Windows)
-![Host IP Settings](img/host-ip-settings.png)
 
 
 ### 📶 Ping Success from VM to Host
