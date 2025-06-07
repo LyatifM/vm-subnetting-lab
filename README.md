@@ -53,9 +53,6 @@ I successfully ran a **ping** from the VM to the host (`192.168.1.2`) and got re
 
 ---
 
-## 📸 Screenshots
-
----
 
 ## 🧠 What This Demonstrates
 
