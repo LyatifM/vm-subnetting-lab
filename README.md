@@ -26,7 +26,7 @@ A `/26` subnet breaks a Class C network into **4 subnets**, each with:
 
 I launched an Ubuntu virtual machine and manually assigned it a static IP from the same subnet as the host:
 
-- **IP Address:** `192.168.1.3/26`
+- **IP Address:** `192.168.1.4/26`
 ### 🐧 Ubuntu VM IP Assignment
 ![Ubuntu IP Info](https://github.com/LyatifM/vm-subnetting-lab/blob/main/Screenshot%202025-06-06%20195925.png?raw=true)
 
