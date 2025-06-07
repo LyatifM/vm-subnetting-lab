@@ -48,14 +48,12 @@ ip a <-- to find out yours
 Since both the host and the VM are on the same subnet, they can communicate directly.
 
 I successfully ran a **ping** from the VM to the host (`192.168.1.2`) and got replies, confirming proper configuration.
+### 📶 Ping Success from VM to Host
+![Ping Test]([img/ping-tests.png](https://github.com/LyatifM/vm-subnetting-lab/blob/main/Screenshot%202025-06-06%20202305.png?raw=true))
 
 ---
 
 ## 📸 Screenshots
-
-
-### 📶 Ping Success from VM to Host
-![Ping Test](img/ping-tests.png)
 
 ---
 
